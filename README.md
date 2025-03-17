@@ -1,2 +1,2 @@
 # claravinni
-the front page of a fashion website
+the Landing page of a fashion website
